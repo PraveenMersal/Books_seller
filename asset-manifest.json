@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Books_seller/static/css/main.fb4e2303.css",
+    "main.js": "/Books_seller/static/js/main.97130f2c.js",
+    "static/js/453.ed3810f9.chunk.js": "/Books_seller/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Books_seller/index.html",
+    "main.fb4e2303.css.map": "/Books_seller/static/css/main.fb4e2303.css.map",
+    "main.97130f2c.js.map": "/Books_seller/static/js/main.97130f2c.js.map",
+    "453.ed3810f9.chunk.js.map": "/Books_seller/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb4e2303.css",
+    "static/js/main.97130f2c.js"
+  ]
+}
